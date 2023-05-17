@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWsK0gj9k/USf38E2YTY1qwAAAAACAAAAAAADZgAAwAAAABAAAACGG0l3cxc2n28x47m1MHedAAAAAASAAACgAAAAEAAAANY2iRHOvzKA6JyyEJH5CD+AAAAAw9YOtlMRSAPv7ukoyOxZj8c1eVO++UIJ2ZSR7YIuPtMMatZA361I0/CmmsO+COWUVhPRTDRhFZkODWMhMpk6ROkKlhjuhUv6urRNPA9WStJYDe4JLdz9dm3IPM2JO3nENMyDX9xcG4Em0hvsoopTQIvPDun9OTG15fCKfW/msNcUAAAAEhT6YTv9f3VFP3cx+e+dAI6QTG8=</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-blu-343.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>False|2023-05-16T04:34:37.1692548Z;False|2023-05-15T18:10:08.2867198+05:30;False|2023-05-15T18:07:30.8789120+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
